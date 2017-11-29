@@ -1,0 +1,42 @@
+.mainNav{
+	background-color: #630c1f;
+
+}
+/*.nav li{
+	display: inline-block;
+}*/
+.nav .nav-item{
+	padding: 10px;
+}
+.navbar-header h3{
+	display:inline;
+}
+.navbar-brand a img {
+	display: inline;
+	max-height: 70px;
+	max-width: 90px;
+}
+#mainCarousel{
+	margin:auto;
+}
+#about{
+	padding-top: 30px;
+	padding-right: 10px;
+}
+#about img{
+	max-width: 300px;
+	max-height: 300px;
+	float: right;
+}
+#directions{
+	padding-top: 150px;
+}
+#directions h2{
+	text-align: right;
+}
+#map {
+	width: 30%;
+	height: 200px;
+	float: left;
+
+}
